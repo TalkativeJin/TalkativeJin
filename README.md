@@ -1,4 +1,4 @@
-## 🧑🏻‍💻 About TalkativeJin
+## 👨‍💻 About TalkativeJin
 
  I'm Security Engineer and Hacker
  
