@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Blog-000000?style=plastic&logo=App Annie&logoColor=white&link=http://talkativejin.com"/>
+<a href="https://talkativejin.com"><img src="https://img.shields.io/badge/Blog-000000?style=plastic&logo=App Annie&logoColor=white"/></a>
