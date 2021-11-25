@@ -6,7 +6,7 @@
  
 ## 🌱 Where to find me
 
-<a href="https://talkativejin.com"><img src="https://img.shields.io/badge/Blog-000000?style=plastic&logo=App Annie&logoColor=white"/></a>
+<a href="https://useegod.com"><img src="https://img.shields.io/badge/Blog-000000?style=plastic&logo=App Annie&logoColor=white"/></a>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:talkativejin@gmail.com)](mailto:talkativejin@gmail.com)
 <a href="https://twitter.com/talkativejin"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white"/></a>
 
